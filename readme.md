@@ -4,9 +4,6 @@
 
 目前高级版已支持根据英文生成图片
 
-购买链接：https://www.lanshop.me/buy/11
-
-展示地址：https://chatx.me
 
 ![www.lanol.cn](https://www.lanshop.me//uploads/tinymce/images/9950dbcc772c74f8b8744117a495510963e925ac95c46.png)
 
@@ -36,6 +33,3 @@ Docker使用：docker logs aichat
 docker run -d --restart=always -p 8000:8000 --name aichat lanol/aichat
 ```
 
-## 赞助我
-
-![www.lanol.cn](https://gitlab.com/Vastsa/lanpicbed/-/raw/master/zb_users/upload/2023/02/6402263fb2ff4fddad51cb64fa66f4fb.png)
